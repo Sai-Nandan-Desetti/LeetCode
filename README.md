@@ -16,7 +16,7 @@ A: Tree traversals: Preorder, Inorder, Postorder
 ## Week 3
 DS: Queue, Monotonic Queue
 
-A: Sliding window, Breadth-First Search (BFS), Depth-First Search (DFS)
+A: Sliding window, Breadth-First Search (BFS), Depth-First Search (DFS), Maximum Subarray (Kadane's algorithm)
 
 ## Week 4
 DS: Queue, Union-Find, Graph
