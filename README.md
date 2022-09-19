@@ -6,12 +6,14 @@ DS: Data Structures
 A: Algorithms
 
 ## Week 1
-DS: Stacks
+DS: Stacks, Trees
+
+A: Tree traversal: Inorder
 
 ## Week 2
 DS: Stacks, Trees
 
-A: Tree traversals: Preorder, Inorder, Postorder
+A: Tree traversals: Preorder, Postorder
 
 ## Week 3
 DS: Queue, Monotonic Queue
